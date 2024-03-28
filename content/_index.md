@@ -235,10 +235,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        ''
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: j.bird@exeter.ac.uk
+      phone: ''
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
@@ -253,8 +253,8 @@ sections:
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '50.73585743072764'
+        longitude: '-3.5294073586938635'  
       contact_links:
         - icon: twitter
           icon_pack: fab
