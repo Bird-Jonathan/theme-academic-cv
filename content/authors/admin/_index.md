@@ -73,7 +73,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-       icon_pack: fas
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
