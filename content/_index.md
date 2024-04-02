@@ -72,9 +72,9 @@ sections:
   #        description: |2-
   #            Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+  #            * Analysing
+  #            * Modelling
+  #            * Deploying
   #      - title: Research Associate
   #        company: University of Exeter
   #        company_url: 
