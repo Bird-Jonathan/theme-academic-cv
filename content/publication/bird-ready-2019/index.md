@@ -1,0 +1,40 @@
+---
+title: 'Ready Exerciser One: examining the efficacy of immersive technologies in the
+  exercise domain'
+authors:
+- J. M. Bird
+date: '2019-01-01'
+publishDate: '2024-04-02T13:13:18.555441Z'
+publication_types:
+- thesis
+abstract: The present programme of research sought to examine the effects of audio-visual
+  stimuli during exercise, using immersive, commercially available technologies. Three
+  original studies were conducted using a range of settings (i.e., real-world, laboratory),
+  methodologies (i.e., qualitative and quantitative), exercise modalities (i.e., gym
+  workouts, cycle ergometry) and consumer products (e.g., music-video channels, virtual
+  reality head-mounted displays) in order to explore the main research question from
+  various perspectives. A substantive theory was proposed in Study 1 that sought to
+  explain and predict the social process of exercising in the presence of a music-video
+  channel. The model provides support for a three-stage process that commences with
+  the content of the music-video channel. The second stage depicts a series of moderators
+  that revolve around the core category, appraisal of appropriateness. Lastly, a range
+  of effects pertaining to exercisers and facility staff are predicted. Study 2 sought
+  to examine the influence of a range of audio-visual stimuli on cycle ergometer exercise
+  at the ventilatory threshold. The findings indicated that a 360-degree video with
+  music condition elicited the most positive affective valence, greatest perceived
+  activation, most dissociative thoughts, and highest ratings of perceived enjoyment.
+  Study 3 sought to veer towards greater ecological validity with the inclusion of
+  a commercially available virtual reality-enabled cycle ergometer. The findings demonstrated
+  the efficacy of such technology, as conditions that entailed virtual reality elicited
+  the most positive affective valence, highest perceived activation, largest number
+  of dissociative thoughts, and greatest perceived enjoyment. Taken holistically,
+  the present body of work demonstrates that audio-visual stimuli can serve as a catalyst
+  for several affective, cognitive, and behavioural effects across various exercise
+  modes and intensities. Researchers are beginning to recognise the importance of
+  affective responses in shaping future exercise behaviours. The addition of audio-visual
+  stimuli within the exercise environment represents a cost-effective and easily implementable
+  intervention that might encourage individuals to partake in regular exercise.
+links:
+- name: URL
+  url: https://bura.brunel.ac.uk/handle/2438/18291
+---
