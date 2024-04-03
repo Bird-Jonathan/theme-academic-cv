@@ -242,7 +242,7 @@ sections:
       address:
         street: University of Exeter Business School
         city: Exeter
-        region: Devon
+        region: Devon,
         postcode: EX4 4PU
         country: United Kingdom
         country_code: UK
