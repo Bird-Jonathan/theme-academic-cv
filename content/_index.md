@@ -242,7 +242,7 @@ sections:
       address:
         street: University of Exeter Business School
         city: Exeter
-        region: Devon
+        region: Devon,
         postcode: 'EX4 4PU'
         country: United Kingdom
         country_code: UK
@@ -250,8 +250,8 @@ sections:
       office_hours: ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '50.73578952825661'
-        longitude: '-3.5295682909573163'  
+        latitude: '50.73551' 
+        longitude: '-3.529933'  
       #contact_links:
       #  - icon: twitter
       #    icon_pack: fab
