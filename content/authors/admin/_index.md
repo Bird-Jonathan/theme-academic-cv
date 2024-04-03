@@ -102,7 +102,7 @@ social:
     link: https://scholar.google.com/citations?user=sSnzn2IAAAAJ&hl=en
   - icon: osf
     icon_pack: ai
-    link: osf.io/cr4q3
+    link: https://osf.io/cr4q3
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-3929-8783
