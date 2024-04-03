@@ -242,8 +242,8 @@ sections:
       address:
         street: University of Exeter Business School
         city: Exeter
-        region: Devon,
-        postcode: 'EX4 4PU'
+        region: Devon
+        postcode: EX4 4PU
         country: United Kingdom
         country_code: UK
       directions: Floor 2, Building One, Rennes Drive
