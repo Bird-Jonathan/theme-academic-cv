@@ -234,8 +234,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        ''
+      text: ''
       # Contact (add or remove contact options as necessary)
       email: j.bird@exeter.ac.uk
       phone: ''
