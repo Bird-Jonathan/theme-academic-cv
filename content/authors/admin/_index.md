@@ -21,8 +21,8 @@ role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Exeter, United Kingdom
-    url: https://business-school.exeter.ac.uk/people/profile/index.php?web_id=Jonathan_Bird
+  - name: University College London, United Kingdom
+    url: https://profiles.ucl.ac.uk/101784-jonathan-bird
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include digital innovations for physical and mental health.
@@ -87,10 +87,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: x-twitter
-    icon_pack: fab
-    link: https://twitter.com/bird_jonathan
+    link: '/#contact'  
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jonathan-bird/
@@ -117,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-Dr Jonathan Bird is a Research Fellow at the University of Exeter. He is interested in the scientific application of immersive technology (e.g., virtual reality, augmented reality). This work spans several contexts, such as health and exercise, sport, and cultural heritage. I am particularly interested in the cognitive (e.g., visual attention), affective (e.g., emotion, mood), and behavioural (e.g., adherence) responses of such technology use.
+Dr Jonathan Bird is a Research Fellow at the Institute for Sport, Exercise, and Health at University College London. Jonathan's main research interests involve the use of digital interventions to promote physical and mental health. A large part of this work involves the use of extended reality (XR) technologies, such as virtual reality, augmented reality, and mixed reality. He is interested in how digital interventions can influence affective/feeling states and cognition during physical actvitiy/exercise, and how these subsequently impact future behaviour.
 
-Dr Jonathan Bird has a strong interest in applied sport psychology, and is accredited as a Sport and Exercise Scientist with the British Association of Sport and Exercise Sciences. He is also a chartered member of the UK’s Science Council and has worked as a consultant with athletes from a wide variety of sports.
+Dr Jonathan Bird has a strong interest in applied sport psychology, and is accredited as a Sport and Exercise Scientist with the Chartered Association of Sport and Exercise Sciences (CASES). He is also a chartered member of the UK’s Science Council and has worked as a consultant with athletes from a wide variety of sports.
 {style="text-align: justify;"}
