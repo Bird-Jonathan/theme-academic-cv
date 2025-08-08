@@ -236,22 +236,22 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: j.bird@exeter.ac.uk
+      email: j.m.bird@ucl.ac.uk
       phone: ''
       appointment_url: ''
       address:
-        street: University of Exeter Business School
-        city: Exeter
-        region: Devon,
-        postcode: EX4 4PU
-        country: United Kingdom
-        country_code: UK
-      directions: Floor 2, Building One, Rennes Drive
+        street: Institute of Sport, Exercise, and Health, University College London
+        city: London
+        region: ''
+        postcode: ''
+        country: ''
+        country_code: ''
+      directions: 170 Tottenham Court Road, London, W1T 7HA
       office_hours: ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '50.73551' 
-        longitude: '-3.529933'  
+        latitude: '51.52286' 
+        longitude: '-0.13621'  
       #contact_links:
       #  - icon: twitter
       #    icon_pack: fab
