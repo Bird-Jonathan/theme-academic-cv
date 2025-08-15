@@ -34,11 +34,11 @@ bio: My research interests include digital innovations for physical and mental h
   #- Physical Activity and Health
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Exercise Psychology
-      institution: Brunel University London
-      year: 2019    
+#education:
+  #courses:
+    #- course: PhD in Exercise Psychology
+      #institution: Brunel University London
+      #year: 2019   
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
