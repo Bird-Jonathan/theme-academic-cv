@@ -114,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-I am a Research Fellow at the Institute for Sport, Exercise, and Health ([ISEH(https://iseh.co.uk/)]) at University College London, where my work focuses on developing and testing digital interventions to promote physical and mental health. A central strand of my research explores the potential of extended reality (XR) technologies—such as virtual, augmented, and mixed reality—to enhance exercise experiences. I am particularly interested in how these digital tools can shape affective/feeling states and cognitive processes during physical activity, and how such changes can influence future behaviour.
+I am a Research Fellow at the Institute for Sport, Exercise, and Health ([ISEH](https://iseh.co.uk/)) at University College London, where my work focuses on developing and testing digital interventions to promote physical and mental health. A central strand of my research explores the potential of extended reality (XR) technologies—such as virtual, augmented, and mixed reality—to enhance exercise experiences. I am particularly interested in how these digital tools can shape affective/feeling states and cognitive processes during physical activity, and how such changes can influence future behaviour.
 
 Alongside my academic work, I have a strong interest in applied sport psychology. I am accredited as a Sport and Exercise Scientist with the Chartered Association of Sport and Exercise Sciences (CASES) and a Chartered Scientist with the UK’s Science Council. I have worked extensively as a consultant, supporting athletes across a wide range of sports to optimise performance and wellbeing.
 
