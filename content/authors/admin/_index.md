@@ -28,10 +28,10 @@ organizations:
 bio: My research interests include digital innovations for physical and mental health.
 
 # Interests to show in About widget
-interests:
-  - Affective Responses
-  - Immersive Technology
-  - Physical Activity and Health
+#interests:
+  #- Affective Responses
+  #- Immersive Technology
+  #- Physical Activity and Health
 
 # Education to show in About widget
 education:
